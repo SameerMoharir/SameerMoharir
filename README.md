@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hello!
+
+
+### 💻 I'm currently working on....
+
+### 📫 How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/SameerMoharir/ "LinkedIn") | [Devpost](https://devpost.com/SameerMoharir "Devpost") | [Email](mailto:sameer.moharir@uwaterloo.ca "Email")
+
+
+![](https://komarev.com/ghpvc/?username=SameerMoharir)
